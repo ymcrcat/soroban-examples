@@ -11,7 +11,7 @@ members = [
 ]
 
 [workspace.dependencies]
-soroban-sdk = { version = "25.0.0-rc.1" }
+soroban-sdk = { version = "25.0.0" }
 soroban-poseidon = { version = "25.0.0-rc.1" }
 
 [profile.release]
